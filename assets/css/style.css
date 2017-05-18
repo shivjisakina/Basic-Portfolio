@@ -62,7 +62,10 @@ p {
 
 
 .connect {
-	
+	width: 270px;
+	background-color: white;
+	height: 250px;
+	margin left: 500px;
 }
 
 .picture {
