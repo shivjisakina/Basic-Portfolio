@@ -29,7 +29,11 @@ body {
 	background-color: white;
 	margin: 50px 0 0 130px;
 	width: 650px;
-	height: 500px;
+	height: 570px;
+}
+
+.whitebox-connect {
+	display: inline;
 }
 
 .aboutme {
@@ -37,6 +41,7 @@ body {
 	overflow: auto;
 	clear: both;
 	font-size: 28px;
+	flex-wrap: wrap;
 }
 
 h1 {
@@ -61,6 +66,7 @@ h1, h2 {
 }
 
 p {
+	margin-left: 200px;
 
 }
 
@@ -69,13 +75,20 @@ p {
 	width: 270px;
 	background-color: white;
 	height: 250px;
-	margin left: 500px;
+	margin-left: 980px;
+	margin-top: 52px;
+}
+
+.connectwithme {
+	color: #4aaaa5;
+	font size: 40px;
+	text-align: center;
 }
 
 .picture {
 	float: left;
 	position: relative;
-	margin-top: -306px;
+	margin-top: -417px;
 	margin-left: 60px;
 	width: 128px;
 	height: 171px;
