@@ -68,6 +68,7 @@ h1, h2 {
 p {
 	margin-left: 200px;
 
+
 }
 
 
@@ -95,7 +96,7 @@ p {
 }
 
 .tabs {
-	margin: 10px 10px 10px 10px;
+	margin: -660px 10px 10px 900px;
 	float: left;
 }
 
@@ -105,8 +106,9 @@ footer {
 	position: absolute;
     left: 0;
     bottom: 0;
+    right: 0;
     height: 100px;
-    width: 100%;
+    width: 960px;
     text-align: center;
     margin: auto;
     border-top: : 10px;
