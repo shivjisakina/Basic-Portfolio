@@ -1,21 +1,32 @@
-head {
+html {
+	color: #777777;
+	background-image: url("assets/images/whirlpool.png")
+}
 
+head {
+	background-color: #4aaaa5;
 }
 
 body {
+	
 
 }
 
 .whiteheader {
+	background-color: white;
+	width: 30px;
+	margin: auto;
+	padding-bottom: 30px;
 
 }
 
 .aboutme {
-
+	float: left;
+	width: 50%
 }
 
 h2 {
-
+	color: #777777;
 }
 
 p {
