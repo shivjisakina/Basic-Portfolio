@@ -98,6 +98,7 @@ p {
 .tabs {
 	margin: -660px 10px 10px 900px;
 	float: left;
+	display: inline-flex;
 }
 
 footer {
