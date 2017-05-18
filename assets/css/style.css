@@ -1,11 +1,12 @@
 html {
 	color: #777777;
+	width: 960px;
+	background: url(whirlpool.png);
+
 	
 }
 
 head {
-	background-color: #4aaaa5;
-	background-image: url(assets/images/whirlpool.png);
 }
 
 body {
@@ -14,40 +15,47 @@ body {
 }
 
 .whiteheader {
-	
+	background-color: white;
 	margin: auto;
 	padding-bottom: 30px;
 	display: block;
-	height: 20%
+	height: 50px;
 
+}
+
+.whitebox {
+	width: 50%;
+	height: 50%;
+	background-color: white;
 }
 
 .aboutme {
 	float: left;
 	overflow: auto;
 	clear: both;
+	font-size: 15px;
 }
 
 h1 {
 	background-color: #4aaaa5;
 	color: white;
 	font-size: 28px;
-	width:15%
+	width:20%;
+	text-align: center;
+	height: 50px;
+	padding-top: 25px;
 	
 }
 
 h2 {
 	color: #4aaaa5;
-	font-size: 28px;
+	font-size: 30px;
 }
 
 p {
 
 }
 
-.whitebox {
-	
-}
 
 .connect {
 	
