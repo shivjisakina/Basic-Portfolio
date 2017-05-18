@@ -24,7 +24,8 @@ body {
 
 .aboutme {
 	float: left;
-	width: 50%
+	overflow: auto;
+	clear: both;
 }
 
 h1 {
@@ -32,15 +33,25 @@ h1 {
 }
 
 h2 {
-	color: #777777;
+	color: #4aaaa5;
+	font-size: 28px;
 }
 
 p {
 
 }
 
+.whitebox {
+	background-color: white;
+}
+
 .connect {
 	background-color: white;
+}
+
+.picture {
+	float: left;
+	position: relative;
 }
 
 .tabs {
@@ -58,4 +69,6 @@ footer {
     width: 100%;
     text-align: center;
     margin: auto;
+    border-top: : 10px;
+    border-top-color: #4aaaa5;
 }
