@@ -37,7 +37,7 @@ body {
 	float: left;
 	overflow: auto;
 	clear: both;
-	font-size: 15px;
+	font-size: 28px;
 }
 
 h1 {
@@ -71,7 +71,9 @@ p {
 .picture {
 	float: left;
 	position: relative;
-	margin-top: -104px;
+	margin-top: -293px;
+	width: 128px;
+	height: 171px;
 }
 
 .tabs {
@@ -80,7 +82,7 @@ p {
 }
 
 footer {
-	
+	background-color: #666666;
 	color: white;
 	position: absolute;
     left: 0;
