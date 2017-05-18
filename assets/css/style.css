@@ -10,7 +10,6 @@ head {
 }
 
 body {
-	
 
 }
 
@@ -53,7 +52,12 @@ h1 {
 
 h2 {
 	color: #4aaaa5;
-	font-size: 30px;
+	font-size: 35px;
+	margin: 40px 0 0 60px;
+}
+
+h1, h2 {
+	font-family: "Georgia', Times, Times New Roman, serif;"
 }
 
 p {
@@ -71,7 +75,8 @@ p {
 .picture {
 	float: left;
 	position: relative;
-	margin-top: -293px;
+	margin-top: -306px;
+	margin-left: 60px;
 	width: 128px;
 	height: 171px;
 }
