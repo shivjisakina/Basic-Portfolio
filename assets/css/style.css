@@ -117,6 +117,16 @@ p {
 	margin: auto;
 }
 
+.line-separator{
+	height:1px;
+	background: lightgray;
+	border-bottom:1px solid #313030;
+	margin-bottom: -28px;
+	margin-top: 21px;
+	width: 86%;
+	margin-left: 58px;
+}
+
 .portfolio {
 	margin: auto;
 
