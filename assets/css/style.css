@@ -78,12 +78,16 @@ p {
 	height: 250px;
 	margin-left: 980px;
 	margin-top: 52px;
+
 }
 
 .connectwithme {
 	color: #4aaaa5;
 	font size: 40px;
 	text-align: center;
+	display: grid;
+	font-size: 28px;
+	padding-top: 20px;
 }
 
 .picture {
@@ -99,6 +103,21 @@ p {
 	margin: -660px 10px 10px 900px;
 	float: left;
 	display: inline-flex;
+	padding: 20px
+}
+
+.about {
+	margin: auto;
+}
+
+.portfolio {
+	margin: auto;
+
+}
+
+.contact {
+	margin: auto;
+
 }
 
 footer {
